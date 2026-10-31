@@ -9,3 +9,5 @@ The website will consist of main index page which will have links to a few recip
 - use of `<img src=" " />` to render pages
 
 I've also been able to apply element parameters, specifically to things like links and images where I can define alt text that would support the accessibility for those who are visually impaired or when images are unable to load. Also, the use of width and height which, as per TOP recommendations should be utilised, as often as possible to avoid any re-sizing issues during loading between `HTML` and `CSS`.
+
+More importantly, I'm also applying the learning about GIT Basics whereby utilising my repo in GitHub, I am able to present and in practice fetch, analyse, and review my work in a structured approach with full trace of changes applied.
