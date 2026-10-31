@@ -1,7 +1,8 @@
 # odin-recipes
 The Odin Project - HTML Basics - Recipes project
 
-This project allows me to utilise the skills learned from the HTML Foundations course, provided by The Odin Projects. Mainly the setup and use of basic HTML syntaxes and elements, such as:
+## About ##
+The website will consist of main index page which will have links to a few recipes. It won't look pretty it will highlight the fundamentals I've learned in the HTML Fundamentals section of The Odin Project course. This project allows me to utilise the skills learned from the HTML Foundations course, provided by The Odin Projects. Mainly the setup and use of basic HTML syntaxes and elements, such as:
 - index.html setup
 - use of `<a href>` for linking pages
 - use of `<ul>` (unordered) and `<ol>` (ordered) lists
