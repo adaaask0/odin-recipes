@@ -32,5 +32,5 @@ More importantly, I'm also applying the learning about GIT Basics whereby utilis
 - [x] Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
 
 ### Iteration 4: add more recipes ###
-- [ ] Create two more recipe pages. Make sure they have the exact same layout as your first recipe page.
-- [ ] Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
+- [x] Create two more recipe pages. Make sure they have the exact same layout as your first recipe page.
+- [x] Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
