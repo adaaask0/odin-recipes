@@ -14,6 +14,7 @@ body {
     max-width: 960px;
     margin: 0 auto;
     font-size: 1rem;
+    color: #4d4d4d;
 }
 
 h1,
@@ -56,10 +57,15 @@ h6 {
     font-size: 1rem;
 }
 
-ul {
-    padding: 0 30px;
+ul,
+ol {
+    padding: 0 45px;
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+li {
+    margin: 5px 0;
 }
 
 a {
@@ -70,4 +76,45 @@ a {
 a:hover {
     color: rgb(0, 46, 111);
     transition: 0.3s ease-in-out;
+}
+
+.rth,
+.recipe-title {
+    text-align: center;
+}
+
+.rth {
+    display: block;
+    margin: 10px 0;
+}
+
+.cover-img {
+    object-fit: cover;
+    width: 100%;
+    height: 450px;
+}
+
+.split-section {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.ingredients,
+.cooking-steps {
+    padding: 20px 30px;
+}
+
+.ingredients {
+    background-color: rgb(255, 197, 131);
+    color: #70471b;
+    flex: 1;
+    min-width: 350px;
+    font-weight: 800;
+}
+
+.cooking-steps {
+    flex: 2;
+    min-width: 400px;
+    background-color: rgb(255, 224, 189);
 }
